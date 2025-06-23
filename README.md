@@ -9,15 +9,15 @@ The primary goal is to identify underperforming products and uncover potential h
 # Objectives
 1. Evaluate Sales Performance
 
-  Understand overall sales trends and assess AWS's current performance.
+   Understand overall sales trends and assess AWS's current performance.
 
 3. Identify Low-Performing Products
 
-  Pinpoint products with low sales volume and revenue contribution.
+   Pinpoint products with low sales volume and revenue contribution.
 
 5. Understand Reasons for Underperformance
 
-  Analyze potential factors contributing to the poor performance of specific products.
+   Analyze potential factors contributing to the poor performance of specific products.
 
 7. Develop Recommendations
 
